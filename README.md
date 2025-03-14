@@ -1,6 +1,3 @@
-Here is your **README.md** file in proper GitHub format:  
-
-```md
 # 🚀 RapidPaste Automation  
 
 **RapidPaste Automation** is a bot designed to automate **text extraction** from PDF and Word documents and format it systematically in a new Word file. This tool is particularly useful for processing **MCQs, structured documents, or text-based datasets**, efficiently pasting extracted content into a formatted table.
@@ -106,10 +103,6 @@ This project is open-source and available under the **MIT License**.
 ---
 
 🚀 **RapidPaste Automation** – Making document formatting effortless! 🚀  
-```
 
-### How to Use This?
-- Copy and paste this content into your `README.md` file in your GitHub repository.  
-- It is already formatted properly with headers, bullet points, and code blocks.  
 
-Let me know if you need any modifications! 😊
+
